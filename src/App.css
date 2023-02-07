@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+h2{
+  text-align: center;
+}
+
+.pic{
+  align-content: end;
+}
+
+.back {
+  background-color:  #deedd6;
+}
+
+.back > img {
+  display: flex;
+float: right;
+}
